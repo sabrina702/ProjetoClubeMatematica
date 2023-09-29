@@ -1,0 +1,29 @@
+/* Classe personalizada com tom de azul */
+.custom-blue-header {
+    background-color: #007bff; /* Tom de azul personalizado */
+    color: #fff; /* Cor do texto */
+}
+.flutuar {
+    display: flex;
+ }
+
+.espaco{
+    margin-right: 10px;
+ }
+
+.navbar {
+    height: 80px;
+}
+
+.nav-link{
+    color: white;
+}
+
+.social-icons a {
+    margin-right: 10px; 
+}
+.social-icons img {
+    width: 40px;
+    height: 40px;
+}
+ 
